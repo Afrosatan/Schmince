@@ -1,8 +1,8 @@
 Schmince - Android game
 ========
 
-Schmince - Ludum Dare 28 Game
-========
+Ludum Dare 28 Game
+--------
 
 Tap in game to move the character
 
